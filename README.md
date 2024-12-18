@@ -1,0 +1,1 @@
+This repository includes the assignment: Basics and Document Structure in Module 7: Lesson 1 of the Software Engineering Core.
